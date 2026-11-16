@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.pio/
+firmware/build/
+firmware/build_enabled/
+telemetry.csv

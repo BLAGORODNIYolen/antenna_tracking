@@ -1,0 +1,12 @@
+AVR Memory Usage
+----------------
+Device: atmega2560
+
+Program:   32784 bytes (12.5% Full)
+(.text + .data + .bootloader)
+
+Data:       3809 bytes (46.5% Full)
+(.data + .bss + .noinit)
+
+
+/workspace/scratch/d06daf65e98f/antenna_suite/firmware/build_enabled/AntennaTracker.hex

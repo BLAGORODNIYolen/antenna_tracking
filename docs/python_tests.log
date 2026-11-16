@@ -1,0 +1,24 @@
+test_cardinal (test_core.GeometryTests.test_cardinal) ... ok
+test_mechanics (test_core.GeometryTests.test_mechanics) ... ok
+test_circle (test_core.ModelTests.test_circle) ... ok
+test_line (test_core.ModelTests.test_line) ... ok
+test_manual_zenith (test_core.ModelTests.test_manual_zenith) ... ok
+test_pause (test_core.ModelTests.test_pause) ... ok
+test_bad_types (test_core.ProtocolTests.test_bad_types) ... ok
+test_control_and_stale (test_core.ProtocolTests.test_control_and_stale) ... ok
+test_framer (test_core.ProtocolTests.test_framer) ... ok
+test_malformed (test_core.ProtocolTests.test_malformed) ... ok
+test_maximum_fields (test_core.ProtocolTests.test_maximum_fields) ... ok
+test_missing (test_core.ProtocolTests.test_missing) ... ok
+test_no_sensor (test_core.ProtocolTests.test_no_sensor) ... ok
+test_rounding (test_core.ProtocolTests.test_rounding) ... ok
+test_roundtrip (test_core.ProtocolTests.test_roundtrip) ... ok
+test_size (test_core.ProtocolTests.test_size) ... ok
+test_wrap (test_core.ProtocolTests.test_wrap) ... ok
+test_commands_feedback_and_history (test_engine.EngineTests.test_commands_feedback_and_history) ... ok
+test_invalid_port (test_engine.EngineTests.test_invalid_port) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.858s
+
+OK

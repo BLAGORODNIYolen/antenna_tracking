@@ -1,0 +1,1 @@
+{"kind": "UART", "seconds": 60.0, "accepted": 1478, "tx_skipped": 0, "tx_attempted": 1478, "tx_sent": 1478, "tx_bytes": 220, "rx_overflow": 0, "rx_valid": 1479, "rx_bytes": 251, "rx_lost": 0, "error": ""}
